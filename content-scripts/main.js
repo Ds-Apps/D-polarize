@@ -1,5 +1,5 @@
 var s = document.createElement("script");
-s.src = chrome.runtime.getURL("content-scripts/reddit.js");
+s.src = chrome.runtime.getURL("content-scripts/general.js");
 s.onload = function () {
   this.remove();
 };

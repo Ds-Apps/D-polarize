@@ -19,16 +19,15 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://*.reddit.com/*"],
+      "matches": ["<all_urls>"],
       "js": ["content-scripts/main.js"],
       "run_at": "document_end"
     }
   ],
   "web_accessible_resources": [
     {
-      "matches": ["https://*.reddit.com/*"],
-      "resources": ["content-scripts/reddit.js"]
+      "matches": ["<all_urls>"],
+      "resources": ["content-scripts/general.js"]
     }
-  ],
-  "host_permissions": ["https://*.reddit.com/*"]
+  ]
 }
