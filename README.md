@@ -4,3 +4,7 @@
 
 
 I believe we (as the people) do ourselves a disservice by supporting or vilifying a party. I suggest consuming your news through a depolarized lense, simply holding your **public servants** accountable for their accomplishments or failures.
+
+### [Contact Your Congressman](https://www.house.gov/representatives/find-your-representative#:~:text=If%20you%20know%20who%20your,the%20U.S.%20House%20switchboard%20operator.)
+### [Contact Your Senator](https://www.senate.gov/senators/senators-contact.htm)
+### [Contact The Whitehouse](https://www.whitehouse.gov/contact/)
